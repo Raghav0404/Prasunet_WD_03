@@ -10,8 +10,8 @@ section {
     font-family: "Permanent Marker", cursive;
     width: 100px;
     height: 100px;
-    box-shadow: 2px 2px 2px 2px #ecd7ba;
-    border: 2px solid #ecd7ba;
+    box-shadow: 2px 2px 2px 2px brown;
+    border: 2px solid yellow;
     cursor: pointer;
     line-height: 100px;
     font-size: 60px;
@@ -19,7 +19,7 @@ section {
 
 .game--title {
     font-size: 100px;
-    color: #d7a62f;
+    color: black;
     margin: 10px auto;
 }
 
@@ -28,13 +28,13 @@ section {
     grid-template-columns: repeat(3, auto);
     width: 306px;
     margin: 10px auto;
-    background-color: #11213a;
+    background-color: orange;
     color: #04c0b2;
 }
 
 .game--status {
     font-size: 50px;
-    color: #d7a62f;
+    color: red;
     margin: 20px auto;
 }
 
